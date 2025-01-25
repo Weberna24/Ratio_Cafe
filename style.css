@@ -68,7 +68,7 @@ html{
 .cover{
     width: 100%;
     height: 80vh;
-    background-image: url("/Ratio/images/Ratio4.jpg");
+    background-image: url("images/Ratio4.jpg");
     background-size: contain;
     background-position: center;
 }
